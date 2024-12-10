@@ -1,4 +1,4 @@
-Detailed Description of the Assembly Selection Sort Algorithm
+# Assembly Selection Sort Algorithm
 The provided assembly code implements the Selection Sort algorithm, which is a fundamental and easy to implement sorting algorithm.
 
 1. Data Section
