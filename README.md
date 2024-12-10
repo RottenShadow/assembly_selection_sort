@@ -26,7 +26,7 @@ The provided assembly code implements the Selection Sort algorithm, which is a f
 4. Reading Input Characters:
     The program reads a specified number of characters from the user into arr using a loop. Each character is stored in the array, and the input process continues until the required number of characters is received.
 
-5. Selection Sort Implementation:
+# 5. Selection Sort Implementation:
     The core of the sorting algorithm is implemented using nested loops:
 
     1-Outer Loop:
@@ -50,11 +50,11 @@ The provided assembly code implements the Selection Sort algorithm, which is a f
 
 1. getCurrentMinNumberIndex: This procedure is responsible for determining the minimum value's index during the inner loop of selection sort.
   
-2. CLEAR_SCREEN: Clears the console screen for better user experience between prompts and outputs. --> Code from emu8086 examples
+2. CLEAR_SCREEN: Clears the console screen for better user experience between prompts and outputs (from emu8086 examples).
   
 3. NewLine: Outputs a new line for better formatting.
 
-printArray: Displays the contents of the array, iterating through each character and formatting the output correctly.
+4. printArray: Displays the contents of the array, iterating through each character and formatting the output correctly.
 
 # Conclusion
 This program showcases fundamental programming concepts in assembly language, including loops, conditionals, and procedures, making it a valuable learning resource for those studying low-level programming.
