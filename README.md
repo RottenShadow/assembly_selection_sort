@@ -1,6 +1,8 @@
 # Assembly Selection Sort Algorithm
 The provided assembly code implements the Selection Sort algorithm, which is a fundamental and easy to implement sorting algorithm.
 
+**--> YouTube Video: https://youtu.be/GFoWTAIaPN0**
+
 # Data Section
 
  1. Constants and Messages:
